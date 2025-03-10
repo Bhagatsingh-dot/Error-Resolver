@@ -1,13 +1,6 @@
-*.tar
-*.tar.*
-*.jar
-*.exe
-*.msi
-*.zip
-*.tgz
+# Ignore log files
 *.log
-*.log.*
-*.sig
 
-pkg/
-src/
+# Ignore system files
+.DS_Store
+*.swp
