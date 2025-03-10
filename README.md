@@ -26,5 +26,5 @@ Error-Resolver is a simple script where users can submit **RHCSA-related errors*
 ## 📧 Contact  
 If you have any questions, feel free to reach out:  
 
-📩 Email: your-email@example.com  
+📩 Email: your-b0900075@gmail.com  
 🌐 GitHub Issues: [Submit an Issue](https://github.com/Bhagatsingh-dot/Error-Resolver/issues)  
